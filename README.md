@@ -3,11 +3,11 @@
 
 ### Antes de empezar
 
-1. Investiga con tus compañeras qué es un Pull Request y cómo se colabora en un proyecto usando pull requests
-2. Ejemplo de Pull Request
-3. Dividid la clase en parejas. Cada pareja **sólo puede tener un ordenador** y las integrantes de la pareja se deben
+1. Investiga con tus compañeras qué es un Pull Request y cómo se colabora en un proyecto usando pull requests (40min)
+2. Ejemplo de Pull Request: veremos un ejemplo en este repositorio (15 min)
+4. Dividid la clase en parejas. Cada pareja **sólo puede tener un ordenador** y las integrantes de la pareja se deben
 turnar escribiendo código.
-4. Cada vez que una pareja termine una de las partes de la página que tiene asignada, puede hacer un Pull Request y
+5. Cada vez que una pareja termine una de las partes de la página que tiene asignada, puede hacer un Pull Request y
 pedir a otra pareja que haga una revisión de su código y apruebe la Pull Request.
 
 

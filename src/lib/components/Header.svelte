@@ -13,7 +13,7 @@
 <style>
     header {
         height: 60px;
-        background-color: antiquewhite;
+        background-color: #2fffff;
         display: flex;
         justify-content: space-between;
     }

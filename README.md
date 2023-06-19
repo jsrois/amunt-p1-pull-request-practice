@@ -26,3 +26,8 @@ pedir a otra pareja que haga una revisión de su código y apruebe la Pull Reque
 - Contacto: En esta sección se puede proporcionar información de contacto, como dirección física de la tienda, número de teléfono, dirección de correo electrónico y horarios de atención. También se puede incluir un formulario de contacto para que los visitantes puedan enviar consultas o comentarios directamente desde la web.
 
 - Preguntas frecuentes (FAQ): Esta sección puede ser útil para responder a las preguntas más comunes de los visitantes. Se pueden incluir preguntas sobre políticas de devolución, métodos de pago aceptados, plazos de entrega, entre otros temas relevantes. Proporcionar respuestas claras y concisas puede ayudar a los usuarios a encontrar rápidamente la información que necesitan.
+
+
+### Cómo trabajar con el proyecto
+
+Para compilar la página, utiliza `npm run dev`. Recuerda que antes deberás instalar las dependencias del proyecto con `npm install`.
